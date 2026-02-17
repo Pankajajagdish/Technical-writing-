@@ -4,7 +4,7 @@
 **Contact**  
 pankajajagdishkulkarni@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/pankajajagdishkulkarni)  
-Pune, Maharashtra [file:71][file:72][file:73]
+Pune, Maharashtra
 
 ---
 
@@ -16,24 +16,24 @@ Detail-oriented technical writer skilled at **transforming complex information i
 *College Publication*  
 - Led content team to produce 12 issues on emerging technologies  
 - Transformed complex technical concepts into clear, accessible articles  
-- Created structured content with diagrams, checklists, and step-by-step explanations [file:71][file:72][file:73]
+- Created structured content with diagrams, checklists, and step-by-step explanations  
 
 ## Featured Samples  
 
 ### 1. Cyber Security Threats  
 **Complex → Simple**: Malware, ransomware, DDoS → Protection checklists  
 **Format**: Instructional guide with infographics  
-**[View PDF](/samples/cyber-security.pdf)** [file:71]
+**[View PDF](./Technical-writing-/Cybersecurity.pdf)**
 
 ### 2. Alexa: New Voice of the World  
 **Complex → Simple**: NLP, AVS → Step-by-step voice AI explanation  
 **Format**: Technical breakdown with diagrams  
-**[View PDF](/samples/alexa.pdf)** [file:72]
+**[View PDF](./Technical-writing-/alexa.pdf)**
 
 ### 3. Electric Vehicles: Future Mobility  
 **Complex → Simple**: Battery tech, EV types → Benefits analysis  
 **Format**: Comparison tables, structured overview  
-**[View PDF](/samples/ev-future.pdf)** [file:73]
+**[View PDF](./Technical-writing-/Electric_vehicle.pdf)**
 
 ## Core Strengths  
 **🔄 Simplifying Complexity**  
